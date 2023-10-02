@@ -1,8 +1,9 @@
 # Social-Network
 
-## Link ->
+## Video -> https://watch.screencastify.com/v/ukoJplLjdKgGsjRGsZQU
 
-## Screenshot ->
+## Screenshot -> ![image](https://github.com/Hans-Doderlein/Social-Network/assets/132940852/6f066e69-9fb1-402e-a789-e3fd3ae3cb5b)
+
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
